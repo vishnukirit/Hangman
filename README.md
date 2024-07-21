@@ -1,4 +1,4 @@
-Hangman Game
+## Hangman Game
 Welcome to the Hangman Game! This is a classic word-guessing game built using TypeScript, JavaScript, HTML, and CSS.
 
 Features
